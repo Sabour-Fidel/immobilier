@@ -7,10 +7,9 @@
             if ($('#spinner').length > 0) {
                 $('#spinner').removeClass('show');
             }
-        }, 1);
+        }, 500);
     };
     spinner();
-    
     
     // Initiate the wowjs
     new WOW().init();
