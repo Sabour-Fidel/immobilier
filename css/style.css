@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #f3a682;
     --secondary: #FF6922;
-    --light: #EFFDF5;
-    --dark: #0E2E50;
+    --light: #effdfcd0;
+    --dark: #f3a682;
 }
 
 .back-to-top {
@@ -132,7 +132,7 @@
 }
 
 .navbar {
-    box-shadow: 0 0 30px rgba(0, 0, 0, .08);
+    box-shadow: 0 0 30px rgba(46, 51, 94, 0.08);
 }
 
 .navbar .dropdown-toggle::after {
