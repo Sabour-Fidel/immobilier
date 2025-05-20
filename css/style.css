@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #0b16ac;
+    --primary: #36a367;
     --secondary: #FF6922;
     --light: #ffffff;
-    --dark: #0d16ac;
+    --dark: #36a367;
 }
 
 .back-to-top {
@@ -486,10 +486,6 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
-}
-
-.text-primary {
-    color: #1b32ff !important; 
 }
 
 @import "bootstrap";
