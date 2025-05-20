@@ -487,3 +487,9 @@
     padding-right: 0;
     border-right: none;
 }
+
+.text-primary {
+    color: #1b32ff !important; 
+}
+
+@import "bootstrap";
