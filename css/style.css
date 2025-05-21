@@ -97,7 +97,7 @@
 .btn-sm-square {
     width: 32px;
     height: 32px;
-}
+}#090842
 
 .btn-lg-square {
     width: 48px;
@@ -132,7 +132,7 @@
 }
 
 .navbar {
-    box-shadow: 0 0 30px rgba(46, 51, 94, 0.08);
+    box-shadow: 0 0 30px rgba(58, 66, 138, 0.08);
 }
 
 .navbar .dropdown-toggle::after {
